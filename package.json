@@ -32,7 +32,7 @@
   "dependencies": {
     "dom-event": "0.0.5",
     "js-oop": "^1.0.0",
-    "object-merge": "^2.5.1",
+    "merge": "^1.2.0",
     "require-sdk": "0.0.2",
     "signals": "^1.0.0"
   }
